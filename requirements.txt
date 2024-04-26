@@ -8,3 +8,5 @@ tensorflow
 transformers
 nltk
 tf-keras
+streamlit
+joblib
