@@ -1,2 +1,2 @@
-data/
-models/logistic_regression_model.pkl
+data/*
+models/*
