@@ -5,7 +5,7 @@ import time
 # Page configuration
 st.set_page_config(page_title="AI vs Human Detector", page_icon=":robot_face:", layout="wide")
 
-@st.cache(allow_output_mutation=True)
+@st.cache_data()
 def load_model():
     model = joblib.load('models/logistic_regression_model.pkl')
     return model
