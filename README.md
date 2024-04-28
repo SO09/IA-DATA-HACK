@@ -1,6 +1,6 @@
 # IA-DATA-HACK
 
-![Texte alternatif](figures/image.png)
+![demo](figures/image.png)
 
 Ce projet contient notre solution au challenge **IA vs AI** du hackaton **IA-DATA-HACK**.<br><br>
 Pour exécuter notre solution, il faut exécuter les commandes suivantes dans un terminal :
